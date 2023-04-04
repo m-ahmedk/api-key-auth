@@ -1,0 +1,16 @@
+﻿global using System;
+global using System.Collections.Generic;
+global using System.IO;
+global using System.Net;
+global using System.Linq;
+global using System.Text;
+global using System.Threading;
+global using System.Net.Http;
+global using System.Threading.Tasks;
+global using System.Data.SqlClient;
+global using Database.Models;
+global using DataAccessApi.Filters;
+global using Microsoft.AspNetCore.Mvc;
+global using DataAccessApi.Attributes;
+global using Microsoft.Extensions.Logging;
+global using Microsoft.Extensions.Configuration;
