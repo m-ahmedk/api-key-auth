@@ -17,10 +17,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="DTO\**" />
-    <Content Remove="DTO\**" />
-    <EmbeddedResource Remove="DTO\**" />
-    <None Remove="DTO\**" />
+    <Compile Remove="DTO\AppUserDTO - Original.cs" />
   </ItemGroup>
 
   <ItemGroup>
