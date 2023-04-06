@@ -9,6 +9,7 @@ global using System.Net.Http;
 global using System.Threading.Tasks;
 global using System.Data.SqlClient;
 global using Database.Models;
+global using DataAccessApi.DTO;
 global using DataAccessApi.Filters;
 global using Microsoft.AspNetCore.Mvc;
 global using DataAccessApi.Attributes;
